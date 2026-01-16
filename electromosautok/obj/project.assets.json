@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gery/Shared/Programing/SchoolProg/CCharp/Juhasz/BEADANDO/electromosautok/electromosautok.csproj",
+      "projectUniqueName": "/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/electromosautok.csproj",
       "projectName": "electromosautok",
-      "projectPath": "/home/gery/Shared/Programing/SchoolProg/CCharp/Juhasz/BEADANDO/electromosautok/electromosautok.csproj",
+      "projectPath": "/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/electromosautok.csproj",
       "packagesPath": "/home/gery/.nuget/packages/",
-      "outputPath": "/home/gery/Shared/Programing/SchoolProg/CCharp/Juhasz/BEADANDO/electromosautok/obj/",
+      "outputPath": "/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gery/.nuget/NuGet/NuGet.Config"

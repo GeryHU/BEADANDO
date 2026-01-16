@@ -16,6 +16,9 @@
                 }
             }
 
+            Console.WriteLine("fl05");
+            Console.WriteLine($"\tAutók száma: {autok.Count}");
+            Console.WriteLine("fl16:");
             foreach (Auto auto in autok)
             {
                 Console.WriteLine("\t"+auto.ToString());

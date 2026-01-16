@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("electromosautok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f01ea880efbd2d68509a9a9ef8878122006c6e8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("electromosautok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("electromosautok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

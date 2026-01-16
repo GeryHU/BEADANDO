@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3rxv9cXDMPs=",
+  "dgSpecHash": "SNeZ32/dF8U=",
   "success": true,
-  "projectFilePath": "/home/gery/Shared/Programing/SchoolProg/CCharp/Juhasz/BEADANDO/electromosautok/electromosautok.csproj",
+  "projectFilePath": "/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/electromosautok.csproj",
   "expectedPackageFiles": [
     "/home/gery/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
   ],

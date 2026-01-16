@@ -1,0 +1,15 @@
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/bin/Debug/net10.0/electromosautok
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/bin/Debug/net10.0/electromosautok.deps.json
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/bin/Debug/net10.0/electromosautok.runtimeconfig.json
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/bin/Debug/net10.0/electromosautok.dll
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/bin/Debug/net10.0/electromosautok.pdb
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/electromosautok.GeneratedMSBuildEditorConfig.editorconfig
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/electromosautok.AssemblyInfoInputs.cache
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/electromosautok.AssemblyInfo.cs
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/electromosautok.csproj.CoreCompileInputs.cache
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/electromosautok.sourcelink.json
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/electromosautok.dll
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/refint/electromosautok.dll
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/electromosautok.pdb
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/electromosautok.genruntimeconfig.cache
+/home/gery/Dokumentumok/GitHub/BEADANDO/electromosautok/obj/Debug/net10.0/ref/electromosautok.dll
